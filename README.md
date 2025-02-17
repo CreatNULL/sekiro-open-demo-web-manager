@@ -104,7 +104,7 @@ python版本  - 3.8.10
    (9). Sekiro Api - 查看调用api执行结果
 ```
 
-```yaml
+```text
 src
   - components/
     - Home.vue   # 家页面父组件
