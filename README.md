@@ -6,8 +6,11 @@
 
 ​	默认第一个注册的为管理员，管理员可以关闭注册功能。
 
+ 	注册服务主要使用开源项目 https://github.com/winsw/winsw，
+        证书的管理使用开源项目 https://github.com/FiloSottile/mkcert
 
 
+	
 ## 二、开发使用环境
 
 工具 - idea
