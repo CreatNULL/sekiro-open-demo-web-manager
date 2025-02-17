@@ -51,8 +51,27 @@ python版本  - 3.8.10
   ## 演示示例
   
   <video src="./../../../../../BandicamPortable-屏幕录制/录屏/使用示例.mp4"></video>
-  
-  
+  坏了视频丢失了，算了截屏一些好了
+  ![image](https://github.com/user-attachments/assets/69373d7f-7dfa-4a74-b887-0953a9a085b0)
+
+  ![image](https://github.com/user-attachments/assets/e43cf2fe-5610-413c-8bc1-bb06b267712e)
+
+  ![image](https://github.com/user-attachments/assets/9fadc2a0-ef23-463a-9822-aa763da6ccdc)
+
+  ![image](https://github.com/user-attachments/assets/10fc12de-d4f0-4c95-838b-b5728c213361)
+
+  ![image](https://github.com/user-attachments/assets/2a7f5058-fff8-44bf-8f76-302b6c20a9db)
+
+  ![image](https://github.com/user-attachments/assets/74760ac3-2b3c-4987-9ffa-259637076869)
+
+  ![image](https://github.com/user-attachments/assets/ce632f52-a70f-4185-8743-4f6066040bd7)
+
+  ![image](https://github.com/user-attachments/assets/c426d9d7-430b-4b16-bd3f-c41e33bbea2b)
+
+  ![image](https://github.com/user-attachments/assets/02f232f7-c68f-413d-bfc3-1a5ef0a30e43)
+
+  ![image](https://github.com/user-attachments/assets/db3b8879-ee51-4bfb-a87f-1731f6a45941)
+
 
 ## 四、默认占用端口
 
