@@ -132,7 +132,7 @@ src
 
 ### flask
 
-```yaml
+```text
 mkcert # GitHub下载的 mkcert
 	- mkcerts
 nginx  # 下载的 nginx 
