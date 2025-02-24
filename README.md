@@ -29,6 +29,8 @@ python版本  - 3.8.10
 
 - **仅限本地使用（ssl证书的原因）**
 
+  Linux 版： https://github.com/CreatNULL/sekiro-open-demo-web-manager-linux
+
 - **流程**
 
   - **1.先安装python依赖**
