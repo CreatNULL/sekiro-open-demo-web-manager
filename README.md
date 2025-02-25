@@ -10,6 +10,7 @@
         证书的管理使用开源项目 https://github.com/FiloSottile/mkcert
 
 
+下载: https://github.com/CreatNULL/sekiro-open-demo-web-manager/releases/download/v1.0/for_sekiro_webui.zip
 	
 ## 二、开发使用环境
 
