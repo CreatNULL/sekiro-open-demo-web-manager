@@ -48,7 +48,10 @@ python版本  - 3.8.10
 
 
 如何解决：
-添加 scoped
+找到前端项目中的 CreateTampermonkey.vue
+![image](https://github.com/user-attachments/assets/67caee9a-be1e-47df-b660-c32225c5828a)
+
+添加 scoped，重新编译放到flask下的static目录下
 ![image](https://github.com/user-attachments/assets/de08b71b-4e8f-42a8-b561-79193784498d)
 
 没解决是懒得改了
