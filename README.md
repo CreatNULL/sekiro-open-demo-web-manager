@@ -43,17 +43,16 @@ python版本  - 3.8.10
 
 
 ## 存在Bug
-勾选看不见:
-![image](https://github.com/user-attachments/assets/434c87b5-5283-4fee-a7c4-bc72e748cedc)
+系统设置中的勾选开启注册看不见:
+
+![image](https://github.com/user-attachments/assets/00d041ef-30ae-4ca3-8d07-8e15a9478d5a)
 
 
 如何解决：
-找到前端项目中的 CreateTampermonkey.vue
+找到前端项目中的 CreateTampermonkey.vue，添加 scoped，重新编译放到flask下的static目录下没解决是懒得改了
 ![image](https://github.com/user-attachments/assets/67caee9a-be1e-47df-b660-c32225c5828a)
 
-添加 scoped，重新编译放到flask下的static目录下
-![image](https://github.com/user-attachments/assets/de08b71b-4e8f-42a8-b561-79193784498d)
 
-没解决是懒得改了
+
 
 
