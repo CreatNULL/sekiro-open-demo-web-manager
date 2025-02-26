@@ -44,10 +44,13 @@ python版本  - 3.8.10
 
 ## 存在Bug
 勾选看不见:
-![image](https://github.com/user-attachments/assets/5b63cb6b-9234-4d94-b275-7692b3ef0672)
+![image](https://github.com/user-attachments/assets/434c87b5-5283-4fee-a7c4-bc72e748cedc)
+
 
 如何解决：
-![image](https://github.com/user-attachments/assets/772312a6-3f8f-436e-bd42-607ad7a3799f)
+添加 scoped
+![image](https://github.com/user-attachments/assets/de08b71b-4e8f-42a8-b561-79193784498d)
+
 没解决是懒得改了
 
 
